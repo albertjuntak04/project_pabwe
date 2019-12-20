@@ -1,0 +1,84 @@
+table {
+    width: 620px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(245, 126, 8);
+    border: 1px solid #f30a0a;
+    margin-bottom: 20px;
+}
+
+table {
+    width: 620px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(245, 126, 8);
+    border: 1px solid #0e0d0d;
+}
+
+table th{
+    padding: 10px;
+    font-size: 14px ;
+    font-weight: bold;
+    color: #fff;
+    text-shadow: 1px 1px 0 #6E6964;
+    background: -moz-linear-gradient(center top, #C8BFB2 0%, #A49D92 100%)
+    repeat scroll 0 0 transparent;
+}
+
+table tr td {
+    padding: 7px;
+    font-size: 13px;
+    color: #0e0d0d;
+    background: #F8F8F8;
+    border-top: 1px solid #0e0d0d ;
+}
+
+table tr.style td{
+    background: #F1ECE2;
+}
+
+
+h4{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 48px;
+    text-align: center;
+    padding-left: 50px;;
+}
+
+caption{
+    text-align: center;
+    color: #0e0d0d;
+}
+
+.content{
+    text-align: justify;
+    border: dashed gray 1px;
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+
+menu{
+    width: 274px; 
+    margin-left: 30px;
+    height: 500px;
+}
+
+.footer{
+   
+    font-family: 'Times New Roman', Times, serif;
+    
+    font-size: 28px;
+    text-align: center;
+    height: 70px;
+    background: green; 
+}
+
+h3
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+    text-align: center;
+    padding-top:5px; 
+
+}
+
+
